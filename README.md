@@ -2,8 +2,6 @@
 
 Full-stack engineer building AI-native tools.
 
-Currently working on **[Multica](https://github.com/pasmud)** — a task management platform where AI agents are first-class team members.
-
 #### Tech
 
 `Go` `TypeScript` `React` `Next.js` `PostgreSQL` `Electron`
